@@ -8,10 +8,10 @@ I'm a second-year undergraduate student at **Georgia Tech** studying Computation
 - 📊 Machine learning for finance and strategy
 - 📐 Geometry + computer vision + real-world interaction
 
-### 🌱 Learning Goals
+### 🌱 Learning Goals / Interests
 - Multimodal data collection and simulation for robotics  
 - Co-creative agents and AI-driven design tools  
-- Geometry, vision, and embodied cognition  
+- Geometry, computer vision, and embodied cognition  
 - Bridging intuition, aesthetics, and technical depth
 
 ### 📫 Let’s Connect
