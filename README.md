@@ -14,5 +14,5 @@ I'm a second-year undergraduate student at **Georgia Tech** studying Computation
 - Bridging intuition, aesthetics, and technical depth
 
 ### 📫 Let’s Connect
-- GitHub: [@sewonm](https://github.com/sewonm)
-- Website: [seonm.github.io](https://seonm.github.io) *(soon!)*
+- Email: smyung6@gatech.edu
+- Website: [seonm.github.io](https://seonm.github.io) 
