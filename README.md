@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sewon Myung
 
-I'm a second-year undergraduate student at **Georgia Tech** studying Computational Media. I build creative, intelligent systems at the intersection of **AI**, **design**, and **robotics**. I love building systems that think, feel, and move — blending real-world sensing with intelligent responses.
+I'm a second-year undergraduate student at **Georgia Tech** studying Computer Science. I build creative, intelligent systems at the intersection of **AI**, **design**, and **robotics**. I love building systems that think, feel, and move — blending real-world sensing with intelligent responses.
 
 ### 🛠 Projects I’m Exploring
 - 🤖 Physical AI & multimodal robotics datasets
