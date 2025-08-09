@@ -15,4 +15,3 @@ I'm a second-year undergraduate student at Georgia Tech studying Computer Scienc
 
 ### Let’s Connect
 - Email: smyung6@gatech.edu
-- Website: [sewonm.github.io](https://sewonm.github.io)
