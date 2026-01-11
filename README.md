@@ -1,6 +1,6 @@
 # Hi, I'm Sewon Myung
 
-I'm a second-year undergraduate student at Georgia Tech studying Computer Science. I build creative, intelligent systems at the intersection of AI, design, and robotics.
+I'm a third-year undergraduate student at Georgia Tech studying Mathematics.
 
 ### Projects I’m Exploring
 - Physical AI & multimodal robotics datasets
