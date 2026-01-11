@@ -1,6 +1,6 @@
 # Hi, I'm Sewon Myung
 
-I'm a third-year undergraduate student at Georgia Tech studying Mathematics.
+I'm a third-year undergraduate student at Georgia Tech studying mathematics.
 
 ### Projects I’m Exploring
 - Physical AI & multimodal robotics datasets
