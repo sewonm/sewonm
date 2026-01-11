@@ -8,6 +8,7 @@ I'm a third-year undergraduate student at Georgia Tech studying mathematics.
 - Geometry + computer vision + real-world interaction
 
 ### Learning Goals / Interests
+- Mathematical modeling 
 - Multimodal data collection and simulation for robotics  
 - Co-creative agents and AI-driven design tools  
 - Geometry, computer vision, and embodied cognition  
