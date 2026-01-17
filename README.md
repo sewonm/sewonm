@@ -1,18 +1,7 @@
-# Hi, I'm Sewon Myung
+I am currently an undergraduate student at Georgia Tech studying mathematics.
+ 
+My research interests lie in geometry, combinatroics, and their applications in AI/ML.
 
-I'm a third-year undergraduate student at Georgia Tech studying mathematics.
+Outside of mathematics, I am interested in art and design.
 
-### Projects I’m Exploring
-- Physical AI & multimodal robotics datasets
-- AI art critics & generative creativity tools
-- Geometry + computer vision + real-world interaction
-
-### Learning Goals / Interests
-- Mathematical modeling 
-- Multimodal data collection and simulation for robotics  
-- Co-creative agents and AI-driven design tools  
-- Geometry, computer vision, and embodied cognition  
-- Bridging intuition, aesthetics, and technical depth
-
-### Let’s Connect
-- Email: smyung6@gatech.edu
+Contact: smyung6 [at] gt [dot] edu
