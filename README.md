@@ -1,3 +1,5 @@
+#Hi, I'm Sewon. 
+
 I am currently an undergraduate student at Georgia Tech studying mathematics.
  
 My research interests lie in geometry, combinatroics, and their applications in AI/ML.
