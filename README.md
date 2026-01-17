@@ -1,4 +1,4 @@
-#Hi, I'm Sewon. 
+# Hi, I'm Sewon.
 
 I am currently an undergraduate student at Georgia Tech studying mathematics.
  
