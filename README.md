@@ -1,4 +1,4 @@
-# hello im sewon
+# Sewon Myung
 
 I am currently an undergraduate student at Georgia Tech studying mathematics.
  
